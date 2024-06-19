@@ -92,11 +92,11 @@ body{
   to {left: 100px;}
 }
 .about{
-	padding-top: 350px;
-	padding-left: 300px;
+	padding-top: 300px;
+	padding-left: 250px;
 }
 .tt{
-	padding-top: 50px;
+	padding-top:40px;
 }
 .card {
 	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
